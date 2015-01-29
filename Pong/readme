@@ -1,0 +1,19 @@
+What I've Implemented While Making Pong:
+
+- shparki.clones.pong:
+	- Engine.java:
+		* Basic game loop implementation
+		* Fixed time step / Fixed updates per second
+	- Game.java:
+	- Main.java:
+
+- shparki.clones.pong.graphics:
+	- Window.java:
+	
+- shparki.clones.pong.io:
+	- Input.java:
+	
+- shparki.clones.pong.util:
+	- Debug.java:
+	- Time.java:
+	- Vector2.java:
